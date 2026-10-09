@@ -156,7 +156,7 @@ First, TrustRoute AI extracts the important details from the uploaded PDF or pas
 | **Recruiter / Intermediary** | The recruitment agency or intermediary involved in the offer. |
 | **Pakistani OEP License** | The license number provided for the Pakistani recruitment agency, if available. |
 | **Visa Route** | The visa or immigration route mentioned in the offer. |
-| **Advance Processing Fee** | Shows whether the offer contains an upfront payment or processing fee request. |
+| **Advance Processing Fee** | Shows whether the offer contains an upfront payment or processing fee request. |  
 
 This information is then used by the verification workflow for the next stage.
 
@@ -446,18 +446,6 @@ The project combines document understanding, structured verification, evidence-b
 Rather than treating an LLM response as the final answer, TrustRoute AI uses AI as one part of a larger verification system where extracted information, structured checks, evidence, and human authorization all contribute to the final result.
 
 ---
-
-## 👨‍💻 Author
-
-**Hamza Shoaib**
-
-*AI & ML Engineer & AI Automation Specialist*
-
-## Connect
-
-- 🌐 [**Portfolio**](https://hamzashoaib.dev/)
-- 💼 [**LinkedIn**](https://linkedin.com/in/ch-hamza-shoaib)
-- 🐙 [**GitHub**](https://github.com/hamxashoaib)
 
 ## ⭐ Project
 
